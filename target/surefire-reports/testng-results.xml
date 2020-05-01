@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="104" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="104" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+      <class name="qaclickacademy.Appium">
+        <test-method status="PASS" signature="takePicture()[pri:0, instance:qaclickacademy.Appium@13969fbe]" name="takePicture" duration-ms="1" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takePicture -->
+        <test-method status="PASS" signature="turnOnMobile()[pri:0, instance:qaclickacademy.Appium@13969fbe]" name="turnOnMobile" duration-ms="0" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnOnMobile -->
+      </class> <!-- qaclickacademy.Appium -->
+      <class name="qaclickacademy.SeleniumAutomation">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qaclickacademy.SeleniumAutomation@22f71333]" name="browserAutomation" duration-ms="2" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="openWebsite()[pri:0, instance:qaclickacademy.SeleniumAutomation@22f71333]" name="openWebsite" duration-ms="1" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+      </class> <!-- qaclickacademy.SeleniumAutomation -->
+      <class name="qaclickacademy.RESTAPIAutomation">
+        <test-method status="PASS" signature="openGET()[pri:0, instance:qaclickacademy.RESTAPIAutomation@6cd8737]" name="openGET" duration-ms="15" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGET -->
+        <test-method status="PASS" signature="openPUT()[pri:0, instance:qaclickacademy.RESTAPIAutomation@6cd8737]" name="openPUT" duration-ms="0" started-at="2020-04-04T13:39:59Z" finished-at="2020-04-04T13:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPUT -->
+      </class> <!-- qaclickacademy.RESTAPIAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
